@@ -14,7 +14,7 @@ export const AuthRouter = () => {
 
     return (
         <div className="auth__main">
-            <h1 className="auth__title main">Reto de 21 dias</h1>
+            <h1 className="auth__title main">Notes App</h1>
             <hr />
 
             <div className="auth__box-container">
